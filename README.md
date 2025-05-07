@@ -40,8 +40,11 @@ This project deploys a private endpoint for an Azure Blob Storage account. It pr
    ```
 
 ### Screenshots
-- Terraform Apply Success: `screenshots/tf-apply-success.png`
-- Blob Endpoint Query: `screenshots/blob-endpoint-query.png`
+- Terraform Apply Success:  
+  ![Terraform Apply Success](./screenshots/tf-apply-success.png)
+
+- Blob Endpoint Query:  
+  ![Blob Endpoint Query](./screenshots/blob-endpoint-query.png)
 
 ### Interview Questions
 1. What is a private endpoint in Azure?
